@@ -2,16 +2,15 @@
 
 I'm an engineering student from Kolkata, interested in:
 
-- 🤖 Robotics & Mechatronics  
-- 🧠 Embedded systems (ESP32, Arduino)  
+- 🤖Robotics & Mechatronics  
+- 🧠Embedded systems (ESP32, Arduino)  
 - 🛠 CAD & 3D printing  
-- ❄️ Thermal systems & refrigeration tech  
+- 🧩PCB designing 
 
 ## What I'm working on
 
 - ESP32/Arduino projects with sensors and wireless comms  
-- Learning CAD (SolidWorks / AutoCAD) and basic mechatronics design  
-- Preparing for university applications and language tests  
+- Learning CAD (SolidWorks / AutoCAD) and basic mechatronics design    
 
 ## Tools & languages
 
